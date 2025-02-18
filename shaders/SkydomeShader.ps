@@ -1,0 +1,66 @@
+////////////////////////////////////////////////////////////////////////////////
+// Filename: light.ps
+////////////////////////////////////////////////////////////////////////////////
+#version 400
+
+
+/////////////////////
+// INPUT VARIABLES //
+/////////////////////
+in vec3 color;
+in vec2 texCoord;
+in vec3 normal;
+in vec3 tang;
+in vec3 binorm;
+
+//////////////////////
+// OUTPUT VARIABLES //
+//////////////////////
+out vec4 outputColor;
+
+
+///////////////////////
+// UNIFORM VARIABLES //
+///////////////////////
+uniform sampler2D shaderTexture;
+uniform sampler2D shaderTexture2;
+uniform sampler2D shaderTexture3;
+uniform vec3 lightDirection;
+uniform vec3 DeltaTexture;
+uniform vec4 diffuseLightColor;
+uniform int opcion;
+
+
+////////////////////////////////////////////////////////////////////////////////
+// Pixel Shader
+////////////////////////////////////////////////////////////////////////////////
+void main(void)
+{
+	vec4 outputColor0;
+	//vec4 outputColor0 = mix(color1, color2, lightDirection.x);
+
+	vec4 color1 = texture(shaderTexture, texCoord);
+	vec4 color2 = texture(shaderTexture2, texCoord);
+	vec4 color3 = texture(shaderTexture3, texCoord);
+	if(opcion==1){
+	outputColor0=color1;
+	}
+if(opcion==2){
+outputColor0=mix(color2, color1, lightDirection.x);
+}
+	if(opcion==3){
+	outputColor0=color2;
+	}
+if(opcion==4){
+outputColor0=mix(color3, color2, lightDirection.x);
+}
+	if(opcion==5){
+	outputColor0=color3;
+	}
+if(opcion==6){
+outputColor0=mix(color1, color3, lightDirection.x);
+}
+
+    outputColor = outputColor0;
+
+}

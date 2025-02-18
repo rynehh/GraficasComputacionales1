@@ -1,0 +1,38 @@
+﻿  Scene.cpp
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Imagenes.h(61,26): warning C4101: 'e': variable local sin referencia
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Imagenes.h(80,28): warning C4101: 'e': variable local sin referencia
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Geometrias.h(57,121): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Geometrias.h(59,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Geometrias.h(60,121): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Geometrias.h(63,114): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Geometrias.h(65,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Geometrias.h(66,114): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Geometrias.h(216,50): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Geometrias.h(217,69): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Geometrias.h(218,50): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\gdipload.h(45,29): warning C4018: '<': no coinciden signed/unsigned
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Land.h(297,54): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Land.h(298,73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Land.h(299,54): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\BoundingBox.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Water.h(308,54): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Water.h(309,73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Water.h(310,54): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Water.h(459,1): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Water.h(465,1): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Water.h(472,1): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Water.h(478,1): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Water.h(486,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\BoundingBoxRenderer.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\BoundingBoxRenderer.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Scene.cpp(1008,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Scene.cpp(1019,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Scene.cpp(1030,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Scene.cpp(1035,51): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Scene.cpp(1822,26): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Scene.cpp(1823,26): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Scene.cpp(1826,26): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Scene.cpp(1827,26): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Scene.cpp(1894,31): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\GCI Plantilla1.0\Scene.cpp(1901,32): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+  GCI Plantilla 1.0 .vcxproj -> D:\UANL\Facu FCFM\5to Semestre\002 CGI\PlantillaFinalFinal\GCI Plantilla 1.2\Debug\GCI Plantilla 1.0.exe
